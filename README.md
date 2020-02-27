@@ -1,5 +1,6 @@
 # sentenceProbability
 I was just playing around with basics of NLP and built a bigram model to find a probability of a sentence. The model was built on a corpus of sentences. In this repository, I used both with laplace smoothing and without laplace smoothing.
+Please note that it is tested only for english sentence. You are free to work on other languages.
 
 Steps to build/compile and run:
 
